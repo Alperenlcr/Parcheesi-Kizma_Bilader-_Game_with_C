@@ -4,3 +4,6 @@ It is prefered to run the program in linux based computers or https://www.online
 Game Explanation
 ---
 There is a pdf in repo that explains game and how to play.
+
+Project Explanation in video
+    https://www.youtube.com/watch?v=YNBElm4O1qo&t=1s
